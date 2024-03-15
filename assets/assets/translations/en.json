@@ -31,8 +31,8 @@
             }
         },
         {
-            "tooltip": "+95 9250011232",
-            "url": "tel:+959250011232",
+            "tooltip": "+95 9978788829",
+            "url": "tel:+959978788829",
             "icon": {
                 "codePoint": "0xecbb",
                 "fontFamily": "FontAwesome",
@@ -51,7 +51,7 @@
         {
             "role": "Senior Full Stack Developer",
             "company": "One Atkhayar Co., Ltd",
-            "description": "Develop and maintain multiple both Flutter and Ionic applications for Android and iOS platforms. Collaborate with designers and product managers to create intuitive and visually appealing user interfaces.",
+            "description": "Develop and maintain multiple both Flutter and Ionic applications for Android and iOS platforms. Collaborate with designers and product managers to create intuitive and visually appealing user interfaces. Implement state management solutions using Provider and Bloc to efficiently manage app state and data flow. Integrate RESTful APIs, third-party APIs and services, such as Firebase, Google Maps, OneSignal, BranchIO and Typesense to enhance app functionality and user experience. Conduct code reviews and provide constructive feedback to team members to ensure code quality and consistency. Actively participate in Agile development processes, including sprint planning, daily stand-ups, and retrospectives.",
             "isPresent": true,
             "startYear": 2022,
             "startMonth": 2,
@@ -333,6 +333,34 @@
                     "display": "AppStore"
                 }
             ]
+        },
+        {
+            "name": "Portfolio Website",
+            "description": "This is my portfolio website. I have used Flutter & Dart to build this responsive website.",
+            "url": "https://yarzarmyomin97.github.io/",
+            "icon": {
+                "codePoint": "0xefc5",
+                "fontFamily": "FontAwesome",
+                "fontPackage": "icons_plus",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/portfolio-yz.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/flutter.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/dart.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                }
+            ]            
         }
     ],
     "languages": [
