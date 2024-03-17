@@ -40,11 +40,7 @@
             }
         }
     ],
-    "resumes": [
-        {
-            "languageCode": "en",
-            "url": "https://www.linkedin.com/in/yarzarmyomin"
-        }
+    "resumes": [        
     ],
     "aboutDescription": "Hi! I'm Yarzar Myo Min, a dedicated and innovative Mobile Application Developer with 5 years of experience in designing, implementing, and maintaining cross-platform mobile applications. Proficient in utilizing Flutter framework to create smooth, responsive, and visually appealing user interfaces. Seeking to leverage expertise in mobile app development to contribute effectively to a dynamic team. Skilled in Flutter, Dart, Ionic, Android, iOS, Java, C#, Software Development and Mobile Applications.",
     "experiences": [
@@ -344,7 +340,7 @@
                 "fontPackage": "icons_plus",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/portfolio-yz.png",
+            "screenshotPath": "assets/images/portfolio-yz-light.png",
             "technologies": [
                 {
                     "name": "Flutter",
