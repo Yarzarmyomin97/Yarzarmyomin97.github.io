@@ -1,5 +1,5 @@
 {
-    "name": "Yarzar Myo Min",
+    "name": "Yar Zar Myo Min",
     "description": "Mobile Application Developer",
     "subDescription": "Flutter Enthusiast",
     "contacts": [
@@ -31,8 +31,8 @@
             }
         },
         {
-            "tooltip": "+95 9978788829",
-            "url": "tel:+959978788829",
+            "tooltip": "+66 952738966",
+            "url": "tel:+66952738966",
             "icon": {
                 "codePoint": "0xecbb",
                 "fontFamily": "FontAwesome",
@@ -42,7 +42,7 @@
     ],
     "resumes": [        
     ],
-    "aboutDescription": "Hi! I'm Yarzar Myo Min, a dedicated and innovative Mobile Application Developer with 5 years of experience in designing, implementing, and maintaining cross-platform mobile applications. Proficient in utilizing Flutter framework to create smooth, responsive, and visually appealing user interfaces. Seeking to leverage expertise in mobile app development to contribute effectively to a dynamic team. Skilled in Flutter, Dart, Ionic, Android, iOS, Java, C#, Software Development and Mobile Applications.",
+    "aboutDescription": "Hi! I'm Yar Zar Myo Min, a dedicated and innovative Mobile Application Developer with 5 years of experience in designing, implementing, and maintaining cross-platform mobile applications. Proficient in utilizing Flutter framework to create smooth, responsive, and visually appealing user interfaces. Seeking to leverage expertise in mobile app development to contribute effectively to a dynamic team. Skilled in Flutter, Dart, Ionic, Android, iOS, Java, C#, Software Development and Mobile Applications.",
     "experiences": [
         {
             "role": "Senior Full Stack Developer",
